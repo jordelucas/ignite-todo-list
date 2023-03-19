@@ -1,0 +1,18 @@
+.emptyState {
+  text-align: center;
+  padding: 4rem 1.5rem;
+  margin-top: 1.5rem;
+  border-top: 1px solid var(--gray-400);
+}
+
+.emptyState h4 {
+  font-size: 1rem;
+  line-height: 1.4rem;
+  margin-top: 1rem;
+}
+
+.emptyState h5 {
+  font-size: 1rem;
+  line-height: 1.4rem;
+  font-weight: 400;
+}
