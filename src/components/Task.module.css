@@ -66,3 +66,7 @@
 .task button:hover {
   color: var(--red-500);
 }
+
+.strikethroughText {
+  text-decoration: line-through;
+}
